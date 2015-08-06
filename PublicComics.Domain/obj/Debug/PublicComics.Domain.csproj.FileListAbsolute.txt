@@ -1,0 +1,4 @@
+E:\code\PublicComicsVisualStudio\PublicComics.Domain\bin\Debug\PublicComics.Domain.dll
+E:\code\PublicComicsVisualStudio\PublicComics.Domain\bin\Debug\PublicComics.Domain.pdb
+E:\code\PublicComicsVisualStudio\PublicComics.Domain\obj\Debug\PublicComics.Domain.dll
+E:\code\PublicComicsVisualStudio\PublicComics.Domain\obj\Debug\PublicComics.Domain.pdb

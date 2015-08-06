@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicComics.Web", "PublicComics.Web\PublicComics.Web.csproj", "{AE93A594-98A1-43E3-9473-4A2245226EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicComics.Web.Tests", "PublicComics.Web.Tests\PublicComics.Web.Tests.csproj", "{F27ED800-32F2-4DC9-87D3-AA8E64864988}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{29E12AAC-B7E9-4762-8416-D365C1A98897}"
+	ProjectSection(SolutionItems) = preProject
+		..\public_comics\schema_design.xml = ..\public_comics\schema_design.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicComics.Domain", "PublicComics.Domain\PublicComics.Domain.csproj", "{0E05FF0D-EE43-4FE3-84FD-EDCB8E6BA5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE93A594-98A1-43E3-9473-4A2245226EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE93A594-98A1-43E3-9473-4A2245226EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE93A594-98A1-43E3-9473-4A2245226EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE93A594-98A1-43E3-9473-4A2245226EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27ED800-32F2-4DC9-87D3-AA8E64864988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27ED800-32F2-4DC9-87D3-AA8E64864988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27ED800-32F2-4DC9-87D3-AA8E64864988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27ED800-32F2-4DC9-87D3-AA8E64864988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E05FF0D-EE43-4FE3-84FD-EDCB8E6BA5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E05FF0D-EE43-4FE3-84FD-EDCB8E6BA5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E05FF0D-EE43-4FE3-84FD-EDCB8E6BA5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E05FF0D-EE43-4FE3-84FD-EDCB8E6BA5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
